@@ -56,6 +56,7 @@ This is an image:
 # Code!
 
 This is C++
+
 ```cpp
 
 for(int i = 0; i < 10; i ++){
@@ -63,12 +64,16 @@ for(int i = 0; i < 10; i ++){
 }
 
 ```
+
 This is LaTeX
+
 ```latex
+
 \begin{document}
     This is how you do math:
     \(x=2^2\)
 \end{document}
+
 ```
 
 # Equations
@@ -76,8 +81,9 @@ This is LaTeX
 $$ \sum_{i=0}^n a^n  $$
 
 # Quotes
+
 You can Use Quotes!
 
->   This is a Block Quote
+>This is a Block Quote
 >
->   This is the next Paragraph of the Quote
+>This is the next Paragraph of the Quote
